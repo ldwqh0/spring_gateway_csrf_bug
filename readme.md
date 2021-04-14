@@ -129,4 +129,4 @@ i test the other content type ,they are completed normal.
 if the upstream server's function params is empty or the client request params is empty. it can be completed.
 
 
-
+the test project is here [https://github.com/ldwqh0/spring_gateway_csrf_bug](https://github.com/ldwqh0/spring_gateway_csrf_bug)
